@@ -1,0 +1,6 @@
+path: C:\Users\US593\OneDrive\Desktop\data
+train: C:\Users\US593\OneDrive\Desktop\data\images\train
+val: C:\Users\US593\OneDrive\Desktop\data\images\val
+
+names: 
+  0: dandelion
