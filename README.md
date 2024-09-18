@@ -1,1 +1,1 @@
-# automated-weed-killing-with-camera-guided-atomstack-laser-main
+# automated-weed-killing-with-camera-guided-atomstack-laser
